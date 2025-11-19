@@ -1,4 +1,4 @@
-import foundationImg from '../images/foundation-img.jpg'
+import foundationImg from '../Images/foundation-img.jpg'
 
 function Foundation() {
   return (

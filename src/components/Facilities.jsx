@@ -1,6 +1,6 @@
-import facilityImg1 from '../images/facility-img-01.jpg'
-import facilityImg2 from '../images/facility-img-02.jpg'
-import facilityImg3 from '../images/facility-img-03.jpg'
+import facilityImg1 from '../Images/facility-img-01.jpg'
+import facilityImg2 from '../Images/facility-img-02.jpg'
+import facilityImg3 from '../Images/facility-img-03.jpg'
 
 function Facilities() {
   const facilities = [

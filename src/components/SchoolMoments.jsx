@@ -1,10 +1,10 @@
 import { useState, useEffect } from 'react'
-import schoolImg1 from '../images/school-img-01.jpg'
-import schoolImg2 from '../images/school-img-02.jpg'
-import schoolImg3 from '../images/school-img-03.jpg'
-import schoolImg4 from '../images/school-img-04.jpg'
-import schoolImg5 from '../images/school-img-05.jpg'
-import schoolImg6 from '../images/school-img-06.jpg'
+import schoolImg1 from '../Images/school-img-01.jpg'
+import schoolImg2 from '../Images/school-img-02.jpg'
+import schoolImg3 from '../Images/school-img-03.jpg'
+import schoolImg4 from '../Images/school-img-04.jpg'
+import schoolImg5 from '../Images/school-img-05.jpg'
+import schoolImg6 from '../Images/school-img-06.jpg'
 
 function SchoolMoments() {
   const [currentIndex, setCurrentIndex] = useState(0)

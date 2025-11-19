@@ -1,7 +1,7 @@
-import programImg1 from '../images/program-img-01.jpg'
-import programImg2 from '../images/program-img-02.jpg'
-import programImg3 from '../images/program-img-03.jpg'
-import programImg4 from '../images/program-img-04.jpg'
+import programImg1 from '../Images/program-img-01.jpg'
+import programImg2 from '../Images/program-img-02.jpg'
+import programImg3 from '../Images/program-img-03.jpg'
+import programImg4 from '../Images/program-img-04.jpg'
 
 function Programs() {
   const programs = [
